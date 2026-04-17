@@ -1,5 +1,3 @@
-*This project was created as part of the 42 curriculum by omawele.*
-
 ## Description
 
 The goal of this project **philosopher** is to learn the basics of **threading a process**. It allows you to learn how to create **threads** and explore the use of **mutexes**.
